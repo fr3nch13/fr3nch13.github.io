@@ -1,7 +1,7 @@
 .feature__wrapper .feature__item .archive__item .archive__item-teaser {
     background-color: #84d1fa;
-    background: linear-gradient(to top, #84d1fa33, #84d1facc);
+    background: linear-gradient(to top, #84d1fa55, #84d1faaa);
 }
 .feature__wrapper .feature__item .archive__item .archive__item-teaser img {
-    height: 200px;
+    max-height: 200px;
 }
