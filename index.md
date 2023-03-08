@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_filter: "linear-gradient(to top, #84d1fa00, #84d1faff)"
+  overlay_filter: "linear-gradient(to bottom, #84d1fa00, #84d1faff)"
   #overlay_color: "#42aaf5"
   overlay_image: /assets/images/homepage-banner.jpg
   actions:
