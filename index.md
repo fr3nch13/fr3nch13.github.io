@@ -11,7 +11,7 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   Welcome to my website.<br />
-  <small></small>
+  <small>Nothing Here.</small>
 feature_row:
   - image_path: /assets/images/feature-projects.png
     alt: "Projects"
@@ -37,4 +37,3 @@ feature_row:
 ---
 
 {% include feature_row %}
----
