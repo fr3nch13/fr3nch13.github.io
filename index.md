@@ -1,4 +1,6 @@
 ---
-layout: home
-author_profile: true
+type: pages
+layout: splash
+permalink: /
+hidden: true
 ---
