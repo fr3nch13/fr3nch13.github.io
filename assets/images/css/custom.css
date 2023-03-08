@@ -1,3 +1,6 @@
 .feature__wrapper .feature__item .archive__item .archive__item-teaser {
     background-color: #84d1fa;
 }
+.feature__wrapper .feature__item .archive__item .archive__item-teaser img {
+    height: 200px;
+}
