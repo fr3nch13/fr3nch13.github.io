@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Fr3nch"
 title_separator          : "-"
-subtitle                 : "Brian French" # site tagline that appears below site title in masthead
+subtitle                 : "fr3nch13.github.io" # site tagline that appears below site title in masthead
 name                     : "Brian French"
 description              : "My static Github pages site."
 url                      : "https://fr3nch13.github.io" # the base hostname & protocol for your site e.g. https://mmistakes.github.io

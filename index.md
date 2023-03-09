@@ -7,12 +7,9 @@ header:
   overlay_filter: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
   #overlay_color: "#42aaf5"
   overlay_image: /assets/images/banner-homepage.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
   Welcome to my website.<br />
-  <small>Nothing Here.</small>
+  <small>Just a collection of my life.</small>
 feature_row:
   - image_path: /assets/images/banner-projects.jpg
     alt: "Projects"
