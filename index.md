@@ -5,11 +5,11 @@ permalink: /
 hidden: true
 header:
   overlay_filter: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
-  #overlay_color: "#42aaf5"
   overlay_image: /assets/images/banner-homepage.jpg
 excerpt: >
   Welcome to my website.<br />
   <small>Just a collection of my life.</small>
+date: ''
 feature_row:
   - image_path: /assets/images/banner-projects.jpg
     alt: "Projects"
