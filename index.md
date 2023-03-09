@@ -4,9 +4,9 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_filter: "linear-gradient(to bottom, #84d1fa55, #84d1faaa)"
+  overlay_filter: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
   #overlay_color: "#42aaf5"
-  overlay_image: /assets/images/homepage-banner.jpg
+  overlay_image: /assets/images/banner-homepage.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
@@ -21,20 +21,20 @@ feature_row:
     url: "/docs/projects/"
     btn_class: "btn--primary"
     btn_label: "View"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /assets/images/feature-hobbies.png
+    alt: "Hobbies"
+    title: "Hobbies"
+    excerpt: "A bunch of my hobbies."
+    url: "/docs/hobbies/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    btn_label: "View"
+  - image_path: /assets/images/feature-personal.png
+    alt: "person"
+    title: "Personal"
+    excerpt: "Other things in my personal life."
+    url: "/docs/personal/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "View"      
 ---
 
 {% include feature_row %}
