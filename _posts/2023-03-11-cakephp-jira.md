@@ -1,6 +1,6 @@
 ---
 layout: post_github
-title:  "CakePHP -Jira"
+title:  "CakePHP - Jira Plugin"
 excerpt: "The Jira Plugin for CakePHP"
 date:   2023-03-11 13:13:00 -0800
 categories: projects

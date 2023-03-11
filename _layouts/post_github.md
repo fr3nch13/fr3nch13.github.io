@@ -1,9 +1,8 @@
 ---
 layout: post
 ---
-{% assign repo_name = page.repo_name | site.repository | nil %}
-{% if repo_name %}
-    {% assign repo = site.github.public_repositories | where:'name', repo_name %}
+{% if page.repo_name %}
+    {% assign repo = site.github.public_repositories | where:'name', page.repo_name | null %}
 {% endif %}
 
 {% if repo %}
@@ -11,6 +10,7 @@ layout: post
 {% endif %}
 
 <pre>
+{{ page.repo_name | jsonify }}
 {{ repo | jsonify }}
 </pre>
 
