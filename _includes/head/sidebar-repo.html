@@ -1,5 +1,4 @@
-{% if page.repo %}
-  {% assign repo = page.repo %}
+{% if repo %}
   <div class="sidebar sticky">
     {% if repo.full_name %}<h3>{{ repo.full_name }}</h3>{% endif %}
     {% if repo.html_url %}<small><a href="{{ repo.html_url }}">{{ repo.html_url }}</a></small>{% endif %}
