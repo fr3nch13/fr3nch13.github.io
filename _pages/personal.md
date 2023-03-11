@@ -5,7 +5,7 @@ taxonomy: "personal"
 title: Personal
 permalink: /personal/
 header:
-  overlay_filter: {{ site.custom.hero_overlay }}
+  overlay_filter: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
   overlay_image: /assets/images/banner-personal.jpg
 excerpt: "Personal things I'd like to highlight."
 date: ''
