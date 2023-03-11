@@ -1,6 +1,6 @@
 ---
 layout: post
-repository: {{ page.repository | [] }}
 ---
+{% assign repository = page.repository | default: site.repository %}
 
 {{ content }}
