@@ -1,5 +1,7 @@
 ---
 layout: splash
+author_profile: true
+taxonomy: "projects"
 title: Projects
 permalink: /projects/
 header:
@@ -7,7 +9,6 @@ header:
   overlay_image: /assets/images/banner-projects.jpg
 excerpt: "Highlighted Projects I'm working on."
 date: ''
-taxonomy: "projects"
 ---
 
 This will list out the different projects I have.

@@ -1,5 +1,7 @@
 ---
 layout: splash
+author_profile: true
+taxonomy: "personal"
 title: Personal
 permalink: /personal/
 header:
@@ -7,7 +9,6 @@ header:
   overlay_image: /assets/images/banner-personal.jpg
 excerpt: "Personal things I'd like to highlight."
 date: ''
-taxonomy: "personal"
 ---
 
 This will list out the different things in my personal life that I'd like to highlight.

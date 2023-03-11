@@ -1,5 +1,7 @@
 ---
 layout: splash
+author_profile: true
+taxonomy: "hobbies"
 title: Hobbies
 permalink: /hobbies/
 header:
@@ -7,7 +9,6 @@ header:
   overlay_image: /assets/images/banner-hobbies.jpg
 excerpt: "Different hobbies I have."
 date: ''
-taxonomy: "hobbies"
 ---
 
 This will list out the different hobbies I have.
