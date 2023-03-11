@@ -15,14 +15,14 @@ feature_row:
     alt: "Projects"
     title: "Projects"
     excerpt: "A list of projects that I have created, or contributed to."
-    url: "/docs/projects/"
+    url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "View"
   - image_path: /assets/images/banner-printer-3d.jpg
     alt: "3D Printer"
     title: "Hobbies"
-    excerpt: "A bunch of my hobbies."
-    url: "/docs/hobbies/"
+    excerpt: "A bunch of my hobbies that I'm in to."
+    url: "/pages/hobbies/"
     btn_class: "btn--primary"
     btn_label: "View"
   - image_path: /assets/images/banner-puppies.jpg
