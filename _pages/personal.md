@@ -1,13 +1,11 @@
 ---
 layout: splash
-title: Person
+title: Personal
 permalink: /personal/
 header:
   overlay_filter: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
   overlay_image: /assets/images/banner-personal.jpg
-excerpt: >
-  Personal<br />
-  <small>Personal things I'd like to highlight.</small>
+excerpt: "Personal things I'd like to highlight."
 date: ''
 ---
 
