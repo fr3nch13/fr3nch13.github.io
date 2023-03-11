@@ -9,9 +9,4 @@ layout: post
     {% include sidebar-repo.html %}
 {% endif %}
 
-<pre>
-{{ page.repo_name | jsonify }}
-{{ repo | jsonify }}
-</pre>
-
 {{ content }}
