@@ -7,7 +7,14 @@ header:
   overlay_image: /assets/images/banner-hobbies.jpg
 excerpt: "Different hobbies I have."
 date: ''
+taxonomy: "hobbies"
 ---
 
-
 This will list out the different hobbies I have.
+
+## Posts
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
+</div>
