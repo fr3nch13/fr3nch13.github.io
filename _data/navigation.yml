@@ -2,11 +2,19 @@
 main:
   - title: "Home"
     url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Hobbies"
+    url: /hobbies/
+  - title: "Personal"
+    url: /personal/
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Resume"
+    url: /resume/
+  - title: "Sitemap"
+    url: /sitemap/
+#  - title: "Posts"
+#    url: /year-archive/
+# - title: "Sample Collections"
+#   url: /collection-archive/
