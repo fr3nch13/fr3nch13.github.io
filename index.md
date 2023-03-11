@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_filter: { site.custom.hero_overlay }
+  overlay_filter: {{ site.custom.hero_overlay }}
   overlay_image: /assets/images/banner-homepage.jpg
 title: Fr3nch
 excerpt: >

@@ -5,7 +5,7 @@ taxonomy: "hobbies"
 title: Hobbies
 permalink: /hobbies/
 header:
-  overlay_filter: { site.custom.hero_overlay }
+  overlay_filter: {{ site.custom.hero_overlay }}
   overlay_image: /assets/images/banner-hobbies.jpg
 excerpt: "Different hobbies I enjoy."
 date: ''

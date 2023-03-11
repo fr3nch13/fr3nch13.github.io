@@ -5,7 +5,7 @@ taxonomy: "projects"
 title: Projects
 permalink: /projects/
 header:
-  overlay_filter: { site.custom.hero_overlay }
+  overlay_filter: {{ site.custom.hero_overlay }}
   overlay_image: /assets/images/banner-projects.jpg
 excerpt: "Highlighted Projects I'm working on."
 date: ''
