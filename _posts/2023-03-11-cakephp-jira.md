@@ -7,8 +7,8 @@ categories: projects
 tags: [cakephp,plugin,jira]
 repository: fr3nch13/cakephp-jira
 sidebar:
-  title: {{ site.github.project_title }}
-  text: {{ site.github.project_tagline }}
+  title: { page.github.project_title }
+  text: { page.github.project_tagline }
   nav:
     - title: "fr3nch13/cakephp-jira"
       url: "https://github.com/fr3nch13/cakephp-jira" 
