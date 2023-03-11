@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fr3nch"
+title                    : "Fr3nch13"
 title_separator          : "-"
 subtitle                 : "fr3nch13.github.io" # site tagline that appears below site title in masthead
 name                     : "Brian French"
@@ -282,4 +282,5 @@ defaults:
       related: true
 
 # Custom stuff here.
-custom.hero_overlay: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
+custom:
+  hero_overlay: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
