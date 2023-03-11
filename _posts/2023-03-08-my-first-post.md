@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "My First Post"
 excerpt: "First post while setting up my Github Pages site."
 date:   2023-03-08 20:14:41 -0800

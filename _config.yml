@@ -136,6 +136,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/fr3nch13"
+    - label: "Sitemap"
+      icon: "fab fa-fw fa-sitemap"
+      url: "/sitemap/"
 
 
 # Reading Files
