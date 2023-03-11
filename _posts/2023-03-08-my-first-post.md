@@ -7,7 +7,7 @@ categories: projects
 tags: projects
 ---
 
-# Introduction
+## Introduction
 
 This is my first post.
 

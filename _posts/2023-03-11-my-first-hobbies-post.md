@@ -1,13 +1,13 @@
 ---
 layout: single
 title:  "My First Hobbies Post"
-excerpt: "This is the first post in the Hobbies categoty."
+excerpt: "This is the first post in the Hobbies category."
 date:   2023-03-11 12:14:00 -0800
 categories: hobbies
 tags: 3dprinting
 ---
 
-# Introduction
+## Introduction
 
 This is my first hobbies post.
 
