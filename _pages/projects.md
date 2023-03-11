@@ -1,8 +1,14 @@
 ---
-layout: single
+layout: splash
 title: Projects
 permalink: /projects/
-author_profile: true
+header:
+  overlay_filter: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
+  overlay_image: /assets/images/banner-projects.jpg
+excerpt: >
+  Projects<br />
+  <small>Highlighted Projects I'm working on.</small>
+date: ''
 ---
 
 

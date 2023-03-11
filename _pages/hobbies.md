@@ -1,8 +1,14 @@
 ---
-layout: single
+layout: splash
 title: Hobbies
 permalink: /hobbies/
-author_profile: true
+header:
+  overlay_filter: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
+  overlay_image: /assets/images/banner-hobbies.jpg
+excerpt: >
+  Hobbies<br />
+  <small>Different hobbies I have.</small>
+date: ''
 ---
 
 
