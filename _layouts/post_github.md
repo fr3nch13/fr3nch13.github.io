@@ -2,7 +2,8 @@
 layout: post
 ---
 {% if page.repo_name %}
-    {% assign repo = site.github.public_repositories | where:'name', page.repo_name | null %}
+    {% assign repos = site.github.public_repositories | where:'name', page.repo_name | null %}
+    {% assign repo = repos[0] %}
 {% endif %}
 
 {% if repo %}
