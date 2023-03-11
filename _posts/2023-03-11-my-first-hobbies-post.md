@@ -7,8 +7,6 @@ categories: hobbies
 tags: 3dprinting
 ---
 
-## Introduction
-
 This is my first hobbies post.
 
 I'm making this post so there is one that is assigned to the hobbies category. I'll update this text later.

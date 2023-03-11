@@ -7,8 +7,6 @@ categories: personal
 tags: puppies
 ---
 
-## Introduction
-
 This is my first personal post.
 
 Let me introduce you to my puppies:

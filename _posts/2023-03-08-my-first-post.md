@@ -7,8 +7,6 @@ categories: projects
 tags: projects
 ---
 
-## Introduction
-
 This is my first post.
 
 I recently dove into Github Pages and I'm in the process of learning how to use it.

@@ -1,6 +1,5 @@
 ---
-layout: single
-toc: true
+layout: post
 ---
 
 {{ content }}
