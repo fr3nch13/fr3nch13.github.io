@@ -7,7 +7,7 @@ permalink: /hobbies/
 header:
   overlay_filter: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
   overlay_image: /assets/images/banner-hobbies.jpg
-excerpt: "Different hobbies I have."
+excerpt: "Different hobbies I enjoy."
 date: ''
 ---
 

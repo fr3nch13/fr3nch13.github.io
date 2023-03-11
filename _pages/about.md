@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: About Me
+excerpt: "A little bit about Brian French."
 permalink: /about/
 ---
 
