@@ -11,4 +11,3 @@ repo_name: "cakephp-jira"
 The Jira plugin allows users of your application to submit Issues to your Jira insance.
 By default, it supports tasks, and bugs. The feature requests are submitted to jira as a task. 
 
-{{ site.github.public_repositories | jsonify }}
