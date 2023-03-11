@@ -280,3 +280,6 @@ defaults:
       comments: true
       share: true
       related: true
+
+# Custom stuff here.
+custom.hero_overlay: "linear-gradient(to bottom, #02b7ffbb, #02b7ff66)"
