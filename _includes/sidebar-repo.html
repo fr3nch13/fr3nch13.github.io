@@ -2,9 +2,10 @@
     {% assign repo = site.github.public_repositories | where:'name', page.repo_name | first %}
 {% endif %}
 {% if repo %}
-  <div class="sidebar sticky">
+  <div class="sidebar sticky repository">
     {% if repo.full_name %}<h3>{{ repo.full_name }}</h3>{% endif %}
     {% if repo.html_url %}<small><a href="{{ repo.html_url }}">{{ repo.html_url }}</a></small>{% endif %}
     {% if repo.description %}<p>{{ repo.description | markdownify }}</p>{% endif %}
   </div>
+  {{repo | jsonify }}
 {% endif %}
