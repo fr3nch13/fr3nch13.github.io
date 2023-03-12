@@ -3,9 +3,18 @@
 {% endif %}
 {% if repo %}
   <div class="sidebar sticky repository">
-    {% if repo.full_name %}<h3>{{ repo.full_name }}</h3>{% endif %}
-    {% if repo.html_url %}<small><a href="{{ repo.html_url }}">{{ repo.html_url }}</a></small>{% endif %}
+    {% if repo.full_name %}
+      <h3 class="p-name" itemprop="name">{{ repo.name }}</h3>
+    {% endif %}
+    {% if repo.html_url %}<a href="{{ repo.html_url }}">{{ repo.full_name }}</a>{% endif %}
     {% if repo.description %}<p>{{ repo.description | markdownify }}</p>{% endif %}
+    <u>
+      <li><a href="{{ repo.clone_url }}">Clone</a></li>
+      <li>License: {{ repo.license.name }}</li>
+      <li>Forks: {{ repo.forks }}</li>
+      <li>Issues: {{repo.open_issues }}</li>
+      <li>Watchers: {{repo.watchers }}</li>
+    </u>
   </div>
   {{repo | jsonify }}
 {% endif %}
