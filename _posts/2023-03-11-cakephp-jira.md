@@ -6,8 +6,6 @@ date:   2023-03-11 13:13:00 -0800
 categories: projects
 tags: [cakephp,plugin,jira]
 repo_name: "cakephp-jira"
-sidebar:
-    title: {{ page.repo_name }}
 ---
 
 The Jira plugin allows users of your application to submit Issues to your Jira insance.
