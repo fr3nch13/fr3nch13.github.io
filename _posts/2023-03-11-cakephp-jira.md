@@ -15,4 +15,4 @@ By default, it supports tasks, and bugs. The feature requests are submitted to j
 
 Below is the current README.md
 
-{% github_sample fr3nch13/cakephp-jira/blob/master/README.md %}
+{% github_sample_ref fr3nch13/cakephp-jira/blob/master/README.md %}
