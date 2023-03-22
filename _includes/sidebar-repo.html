@@ -7,7 +7,7 @@
       <h3 class="p-name" itemprop="name"><i class="fab fa-fw fa-github" aria-hidden="true"></i> {{ repo.name }}</h3>
     {% endif %}
     {% if repo.html_url %}<a href="{{ repo.html_url }}" class="repo-link">{{ repo.full_name }}</a>{% endif %}
-    {% if repo.description %}<p class="repo-description">{{ repo.description | markdownify }}</p>{% endif %}
+    {% if repo.description %}<p class="repo-description">{{ repo.description }}</p>{% endif %}
     <u class="repo-details">
       <li><i class="fas fa-clone"></i> <a href="{{ repo.clone_url }}">Clone</a></li>
       <li><i class="fas fa-scale-balanced"></i> License: {{ repo.license.name }}</li>
