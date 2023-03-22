@@ -6,16 +6,18 @@
     {% if repo.full_name %}
       <h3 class="p-name" itemprop="name"><i class="fab fa-fw fa-github" aria-hidden="true"></i> {{ repo.name }}</h3>
     {% endif %}
-    {% if repo.html_url %}<a href="{{ repo.html_url }}" class="repo-link">{{ repo.full_name }}</a>{% endif %}
-    {% if repo.description %}<p class="repo-description">{{ repo.description }}</p>{% endif %}
-    <u class="repo-details">
-      <li><i class="fas fa-clone"></i> <a href="{{ repo.clone_url }}">Clone</a></li>
-      <li><i class="fas fa-scale-balanced"></i> License: {{ repo.license.name }}</li>
-      <li><i class="fas fa-code-fork"></i> Forks: {{ repo.forks }}</li>
-      <li><a href="{{ repo.html_url }}/issues"><i class="fas fa-list-check"></i> Issues: {{repo.open_issues }}</a></li>
-      <li><i class="fas fa-star"></i> Stars: {{repo.stargazers_count }}</li>
-      <li><i class="fas fa-eye"></i> Watchers: {{repo.watchers_count }}</li>
-      <li><i class="fas fa-code"></i> Language: {{repo.language }}</li>
-    </u>
+    <div class="repo-details">
+      {% if repo.html_url %}<a href="{{ repo.html_url }}" class="repo-link">{{ repo.full_name }}</a>{% endif %}
+      {% if repo.description %}<p class="repo-description">{{ repo.description }}</p>{% endif %}
+      <ul class="repo-list">
+        <li><i class="fas fa-clone"></i> <a href="{{ repo.clone_url }}">Clone</a></li>
+        <li><i class="fas fa-scale-balanced"></i> License: {{ repo.license.name }}</li>
+        <li><i class="fas fa-code-fork"></i> Forks: {{ repo.forks }}</li>
+        <li><a href="{{ repo.html_url }}/issues"><i class="fas fa-list-check"></i> Issues: {{repo.open_issues }}</a></li>
+        <li><i class="fas fa-star"></i> Stars: {{repo.stargazers_count }}</li>
+        <li><i class="fas fa-eye"></i> Watchers: {{repo.watchers_count }}</li>
+        <li><i class="fas fa-code"></i> Language: {{repo.language }}</li>
+      </lu>
+    </div>
   </div>
 {% endif %}

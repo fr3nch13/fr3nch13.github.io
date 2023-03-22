@@ -12,13 +12,13 @@
 
 /* The sidebar for repositories from github */
 
-.sidebar.repository a.repo-link {
+.sidebar.repository div.repo-details {
     font-size: 80%;
 }
+
 .sidebar.repository p.repo-description {
-    font-size: 80%;
     font-style: italic;
 }
-.sidebar.repository ul.repo-details {
+.sidebar.repository ul.repo-list {
     list-style-type: none
 }
