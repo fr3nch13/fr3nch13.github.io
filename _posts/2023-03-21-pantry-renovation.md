@@ -21,3 +21,11 @@ So, we decided to mimic how the kitchen cabinets work by using shelf pins.
 
 The pictures here show how out pantry looked before. 
 As you can see, we need more shelves, and would like to get the food off of the floor. 
+
+<figure class="forth">
+	<img src="/assets/images/posts/IMG_0668.jpeg">
+	<img src="/assets/images/posts/IMG_0670.jpeg">
+	<img src="/assets/images/posts/IMG_0671.jpeg">
+	<img src="/assets/images/posts/IMG_0672.jpeg">
+	<figcaption>How the pantry looked like before</figcaption>
+</figure>
