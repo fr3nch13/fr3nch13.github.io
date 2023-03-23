@@ -11,13 +11,14 @@ tags: closet,pantry,home improvement,draft
 
 ## Preface
 
-So, when I bought my place, the previous owner had already converted the coat closet into a pantry.
+When I bought this place, the previous owner had already converted the coat closet into a pantry.
 They removed the rod, and added some cheap shelves. 
 The old wire shelves have supports at 45 degrees that get in the way of the contents on the shelf below. 
-So we wanted to replace them with wooden shelves. 
 
-We decided to add shelves that were both multiple lengths and can be moved to adjust for future needs. 
-So, we decided to mimic how the kitchen cabinets work by using shelf pins. 
+We needed more shelves, and also wanted to replace them with wooden shelves. 
+
+We decided to add shelves that were both multiple depths and can be moved to adjust for future needs. 
+To do this, we decided to mimic how the kitchen cabinets work by using shelf pins. 
 
 ## Before
 
