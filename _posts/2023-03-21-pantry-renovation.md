@@ -4,7 +4,7 @@ title:  "Pantry Renovation"
 excerpt: "Renovating the pantry to have both more and adjustable shelves."
 date:   2023-03-17 12:00:00 -0800
 categories: personal
-tags: closet,pantry,home improvement
+tags: closet,pantry,home improvement,draft
 ---
 
 # DRAFT
@@ -41,6 +41,7 @@ This is a list of the supplies and tools that we needed.
 #### Tools
 - Drill
   - 1/4 drill bit
+- Circular Saw
 - Level
 - Square
 - Pencil
