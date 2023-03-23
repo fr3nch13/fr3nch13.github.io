@@ -7,6 +7,8 @@ categories: personal
 tags: closet,pantry,home improvement
 ---
 
+# DRAFT
+
 ## Preface
 
 So, when I bought my place, the previous owner had already converted the coat closet into a pantry.
