@@ -34,6 +34,21 @@ As you can see, we need more shelves, and would like to get the food off of the 
 
 ### Supplies
 
-### In Progress
+This is a list of the supplies and tools that we needed.
+
+#### Tools
+- Drill
+  - 1/4 drill bit
+- Level
+- Square
+- Pencil
+- Measuring Tape
+- Stud finder
+
+#### Supplies
+- Wood Boards
+- Self Pegs
+
+### Steps
 
 ### Finished
