@@ -29,3 +29,11 @@ As you can see, we need more shelves, and would like to get the food off of the 
 	<img src="/assets/images/posts/IMG_0672.jpeg">
 	<figcaption>How the pantry looked like before</figcaption>
 </figure>
+
+### Idea
+
+### Supplies
+
+### In Progress
+
+### Finished
