@@ -25,13 +25,14 @@ The pictures here show how out pantry looked before.
 As you can see, we need more shelves, and would like to get the food off of the floor. 
 
 <figure class="half">
-	<img src="/assets/images/posts/pantry-renovation/IMG_0668.jpeg">
-	<img src="/assets/images/posts/pantry-renovation/IMG_0670.jpeg">
+	<img src="/assets/images/posts/pantry-renovation/IMG_0674.jpeg">
+	<img src="/assets/images/posts/pantry-renovation/IMG_0672.jpeg">
 	<figcaption>How the pantry looked like before</figcaption>
 </figure>
-<figure class="half">
+<figure class="third">
+	<img src="/assets/images/posts/pantry-renovation/IMG_0668.jpeg">
+	<img src="/assets/images/posts/pantry-renovation/IMG_0670.jpeg">
 	<img src="/assets/images/posts/pantry-renovation/IMG_0671.jpeg">
-	<img src="/assets/images/posts/pantry-renovation/IMG_0672.jpeg">
 	<figcaption>How the pantry looked like before</figcaption>
 </figure>
 
