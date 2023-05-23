@@ -31,5 +31,6 @@ article.page section.page__content figure.primary-picture {
 /* When embedding youtube videos in an article/post.*/
 article.page section.page__content iframe.youtube-video {
     margin:auto;
-    width: 90%;
+    width: 560px;
+    height: 315px;
 }
