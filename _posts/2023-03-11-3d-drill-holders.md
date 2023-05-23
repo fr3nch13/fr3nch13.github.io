@@ -7,12 +7,12 @@ categories: hobbies
 tags: 3dprinting
 ---
 
-- Thingverse: [Dewalt 18v XR Drill Wall Mount](https://www.thingiverse.com/thing:2900781)
-
 <figure class="primary-picture">
     <img src="/assets/images/posts/3d/drill_holders_1.jpeg"
          alt="Completed Drill holders.">
 </figure>
+
+- Thingverse: [Dewalt 18v XR Drill Wall Mount](https://www.thingiverse.com/thing:2900781)
 
 I needed something to hold my drills when I'm not using them. 
 I found one already created on [Thingverse](https://thingverse.com).

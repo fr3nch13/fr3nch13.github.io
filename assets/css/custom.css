@@ -26,6 +26,7 @@
 /* The primary picture for posts. */
 article.page section.page__content figure.primary-picture {
     float: right;
+    clear: right;
     width: 50%;
 }
 
