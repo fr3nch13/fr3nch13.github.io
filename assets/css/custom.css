@@ -26,6 +26,7 @@
 /* The primary picture for posts. */
 article.page section.page__content figure.primary-picture {
     float: right;
+    width: 50%;
 }
 
 /* When embedding youtube videos in an article/post.*/
