@@ -22,3 +22,14 @@
 .sidebar.repository ul.repo-list {
     list-style-type: none
 }
+
+/* The primary picture for posts. */
+article.page section.page__content figure.primary-picture {
+    float: right;
+}
+
+/* When embedding youtube videos in an article/post.*/
+article.page section.page__content iframe.youtube-video {
+    margin:auto;
+    width: 90%;
+}
